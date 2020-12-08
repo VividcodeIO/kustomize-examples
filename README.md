@@ -1,2 +1,3 @@
 # kustomize-examples
- Example of Kubernetes kustomize
+
+Example of Kubernetes kustomize
